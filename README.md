@@ -45,10 +45,9 @@ Step 7.:- After generating the gcode format then follow the these instruction as
 6.	Close the doors of the 3d printer.
 7.	Open the file from the USB storage and select the Print option.
 
-## INPUT:
-
-
 ## OUTPUT:
+![alt text](<Screenshot (106).png>)
+![alt text](<Screenshot (105).png>)
 
 ### NAME: R P LOSHINI
 ### REGISTER NUMBER: 212225230155
